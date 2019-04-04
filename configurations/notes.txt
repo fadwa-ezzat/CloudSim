@@ -1,3 +1,0 @@
-- Performance measures are the number of examined services (checked whether to add to the result or not)
-and if they were useful (should be added to result), their cloud is added to the number of combined clouds
-
