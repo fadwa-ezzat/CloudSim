@@ -11,7 +11,7 @@ import java.util.Random;
  * 
  * @author Fadwa Ezzat This is the server side main class; generates the clouds,
  *         their service files and services and stores it to
- *         "configurations\config.txt"
+ *         "config.txt"
  */
 
 public class GenerateServicesConfig {
